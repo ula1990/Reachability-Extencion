@@ -1,6 +1,5 @@
 //
 //  ReachabilityVC.swift
-//  Wylsacom News Reader
 //
 //  Created by Ulad Daratsiuk-Demchuk on 2018-01-16.
 //  Copyright © 2018 Uladzislau Daratsiuk. All rights reserved.
